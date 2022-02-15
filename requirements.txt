@@ -1,0 +1,5 @@
+###### Requirements ######`
+
+streamlit
+awesome-streamlit
+vaderSentiment
