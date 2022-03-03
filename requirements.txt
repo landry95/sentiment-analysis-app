@@ -3,3 +3,8 @@
 streamlit
 awesome-streamlit
 vaderSentiment
+pandas
+numpy
+awesome_streamlit
+PIL
+plotly
